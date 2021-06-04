@@ -39,7 +39,7 @@ jobs:
          
       - name: '运行'
         run: |
-          node https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js
+          node youth.js
          
           
         env:
